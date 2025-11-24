@@ -1,0 +1,2 @@
+/usr/bin/ar qc libKupsHTTP.a CMakeFiles/KupsHTTP.dir/src/server.cpp.o CMakeFiles/KupsHTTP.dir/src/request.cpp.o CMakeFiles/KupsHTTP.dir/src/response.cpp.o CMakeFiles/KupsHTTP.dir/src/router.cpp.o
+/usr/bin/ranlib libKupsHTTP.a

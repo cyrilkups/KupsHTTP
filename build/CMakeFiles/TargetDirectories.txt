@@ -1,0 +1,8 @@
+/Users/cyrilkups/Desktop/KupsHTTP/build/CMakeFiles/KupsHTTP.dir
+/Users/cyrilkups/Desktop/KupsHTTP/build/CMakeFiles/KupsHTTP_example.dir
+/Users/cyrilkups/Desktop/KupsHTTP/build/CMakeFiles/edit_cache.dir
+/Users/cyrilkups/Desktop/KupsHTTP/build/CMakeFiles/rebuild_cache.dir
+/Users/cyrilkups/Desktop/KupsHTTP/build/CMakeFiles/list_install_components.dir
+/Users/cyrilkups/Desktop/KupsHTTP/build/CMakeFiles/install.dir
+/Users/cyrilkups/Desktop/KupsHTTP/build/CMakeFiles/install/local.dir
+/Users/cyrilkups/Desktop/KupsHTTP/build/CMakeFiles/install/strip.dir
